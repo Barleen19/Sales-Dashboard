@@ -1,5 +1,5 @@
 # Sales-Dashboard
-Introduction : This project presents an interactive Sales Dashboard developed in Power BI to visualize and analyze a company’s overall sales performance. The dashboard consolidates sales, profit, and customer data from multiple regions and product categories, offering a clear and data-driven view of business performance.
+This project presents an interactive Sales Dashboard developed in Power BI to visualize and analyze a company’s overall sales performance. The dashboard consolidates sales, profit, and customer data from multiple regions and product categories, offering a clear and data-driven view of business performance.
 
 Business Problem : The company faced challenges in tracking real-time sales trends and understanding which regions, categories, and segments contributed most to revenue and profit. Manual data analysis was time-consuming and prone to inaccuracies, making it difficult for decision-makers to identify growth opportunities and improve operational efficiency.
 
